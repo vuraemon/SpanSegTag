@@ -4,11 +4,7 @@ The implementation of SpanSegTag, as described in [our paper](https://aclantholo
 
     @inproceedings{nguyen-etal-2021-joint,
         title = "Joint {C}hinese Word Segmentation and Part-of-speech Tagging via Two-stage Span Labeling",
-        author = "Nguyen, Duc-Vu  and
-          Vo, Linh-Bao  and
-          Tran, Ngoc-Linh  and
-          Nguyen, Kiet  and
-          Nguyen, Ngan",
+        author = "Nguyen, Duc-Vu and Vo, Linh-Bao and Tran, Ngoc-Linh and Nguyen, Kiet Van and Nguyen, Ngan Luu-Thuy",
         booktitle = "Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation",
         month = "11",
         year = "2021",
